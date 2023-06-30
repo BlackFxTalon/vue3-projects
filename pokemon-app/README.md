@@ -1,6 +1,6 @@
 # pokemon-app
 
-Demo Pokemon App with Vue3 (composition API + reactive() + fetch API + Pokemon Rest API (https://pokeapi.co/) + tailwind css)
+Demo Pokemon App with Vue3 (composition API + reactive() + vue router + fetch API + Pokemon Rest API (https://pokeapi.co/) + tailwind css)
 
 ## Recommended IDE Setup
 
