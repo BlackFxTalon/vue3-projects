@@ -2,7 +2,7 @@
 
 Demo Pokemon App with Vue3 (composition API + reactive() + vue router + fetch API + Pokemon Rest API (https://pokeapi.co/) + tailwind css)
 
-netlify - https://superlative-moxie-50324e.netlify.app/
+netlify - https://superlative-moxie-50324e.netlify.app/ !
 
 ## Recommended IDE Setup
 
