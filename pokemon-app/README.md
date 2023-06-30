@@ -2,6 +2,8 @@
 
 Demo Pokemon App with Vue3 (composition API + reactive() + vue router + fetch API + Pokemon Rest API (https://pokeapi.co/) + tailwind css)
 
+netlify - https://superlative-moxie-50324e.netlify.app/
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
